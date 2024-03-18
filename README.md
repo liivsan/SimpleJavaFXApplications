@@ -9,12 +9,8 @@ Uses property listeners for dynamic calculation updates.
 
 Updates the tip percentage label using property binding.
 
-UPDATE HERE WITH SCREENSHOTS
-
 Part 2: Color Chooser App
 
 Allows users to choose colors using sliders for RGB values.
 
 Uses bidirectional property bindings between sliders and text fields for value updates.
-
-UPDATE HERE WITH SCREENSHOTS
